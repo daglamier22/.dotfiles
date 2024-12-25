@@ -23,4 +23,4 @@ source <(ng completion script)
 # alias for maintaining dotfiles bare repository
 alias dotfiles='/usr/bin/git --git-dir=/home/collect/.dotfiles/ --work-tree=/home/collect'
 
-neofetch
+fastfetch
